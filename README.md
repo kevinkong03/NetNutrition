@@ -1,5 +1,5 @@
 # NetNutrition
 HealthKit-integrated nutrition tracking app for Duke's East, Central, and West Campus eateries (CS207 Team Project)
-<img src="https://user-images.githubusercontent.com/89424379/164609404-3ed34eec-a1d6-46c1-a1d7-be6159233409.png" width="200" />
-<img src="https://user-images.githubusercontent.com/89424379/164609982-b3369425-07c7-46d0-8282-50249a815860.png" width="200" />
-<img src="https://user-images.githubusercontent.com/89424379/164609479-7427d23f-33df-45c1-9d21-a2648a5336ef.png" width="200" />
+<img src="https://user-images.githubusercontent.com/89424379/164610191-7aea6e0a-a370-45bb-8906-c6bc1ff29860.png" width="200" />
+<img src="https://user-images.githubusercontent.com/89424379/164610223-76573308-a624-4f55-8eb8-4971483c0f30.png" width="200" />
+<img src="https://user-images.githubusercontent.com/89424379/164610345-6e0db9a1-80f0-47e3-aaba-b787b1596fa8.png" width="200" />
